@@ -1,0 +1,8 @@
+header{
+  position: relative;
+}
+figure{
+  position: absolute;
+  top:-140%;
+  right:10%;
+}
